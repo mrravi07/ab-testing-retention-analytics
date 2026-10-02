@@ -1,0 +1,3 @@
+variant,users,converters,non_converters,conversion_rate,conversion_rate_pct,total_revenue,revenue_per_user,revenue_per_user_sd
+Control,25000,1709,23291,0.06836,6.836,112460.08,4.4984032,19.23663314482084
+Treatment,25000,2043,22957,0.08172,8.172,128059.97,5.1223988,20.31504992393312

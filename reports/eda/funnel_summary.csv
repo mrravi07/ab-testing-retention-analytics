@@ -1,0 +1,9 @@
+variant,stage,users,conversion_from_assigned_users,conversion_from_previous_stage
+Control,Product View,25000,1.0,
+Control,Add to Cart,16129,0.64516,0.64516
+Control,Checkout Started,11510,0.4604,0.7136214272428545
+Control,Purchase,1709,0.06836,0.14847958297132927
+Treatment,Product View,25000,1.0,
+Treatment,Add to Cart,16092,0.64368,0.64368
+Treatment,Checkout Started,11388,0.45552,0.7076808351976137
+Treatment,Purchase,2043,0.08172,0.17939936775553214

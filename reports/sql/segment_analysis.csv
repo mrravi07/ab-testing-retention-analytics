@@ -1,0 +1,17 @@
+segment_type,segment,variant,users,converters,conversion_rate_pct,revenue_per_user,average_order_value
+acquisition_channel,Email,Control,3746,270,7.208,4.6048,63.89
+acquisition_channel,Email,Treatment,3764,308,8.183,5.2771,64.49
+acquisition_channel,Organic,Control,7570,524,6.922,4.8152,69.56
+acquisition_channel,Organic,Treatment,7525,628,8.346,5.0795,60.87
+acquisition_channel,Paid Search,Control,6167,382,6.194,4.0429,65.27
+acquisition_channel,Paid Search,Treatment,6192,496,8.01,5.0651,63.23
+acquisition_channel,Referral,Control,2526,191,7.561,4.452,58.88
+acquisition_channel,Referral,Treatment,2521,225,8.925,5.47,61.29
+acquisition_channel,Social,Control,4991,342,6.852,4.5243,66.03
+acquisition_channel,Social,Treatment,4998,386,7.723,4.9662,64.3
+device,Desktop,Control,6922,470,6.79,4.4461,65.48
+device,Desktop,Treatment,6877,538,7.823,4.7335,60.51
+device,Mobile,Control,16304,1110,6.808,4.4355,65.15
+device,Mobile,Treatment,16327,1350,8.269,5.2493,63.48
+device,Tablet,Control,1774,129,7.272,5.2803,72.61
+device,Tablet,Treatment,1796,155,8.63,5.4582,63.24
